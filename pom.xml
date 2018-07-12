@@ -55,6 +55,7 @@
                     <artifactId>azure-functions-maven-plugin</artifactId>
                     <version>1.0.0-beta-1</version>
                 </plugin>
+                
             </plugins>
         </pluginManagement>
 
@@ -69,7 +70,7 @@
                     <appSettings>
                         <property>
                             <name>FUNCTIONS_EXTENSION_VERSION</name>
-                            <value>beta</value>
+                            <value>2.0.11857-alpha</value>
                         </property>
                     </appSettings>
                 </configuration>
