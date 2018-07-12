@@ -28,3 +28,8 @@ hs_err_pid*
 
 # macOS
 .DS_Store
+/obj/*
+/.settings/*
+/obj/*
+/.settings/*
+/obj/*
